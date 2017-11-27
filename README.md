@@ -1,2 +1,2 @@
 # KalmanFilter
-Kalman Filter implemented in matlab
+simple implementation of Kalman Filter in Matlab.
